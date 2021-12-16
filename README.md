@@ -1,5 +1,5 @@
 # knex-extensions
-## JavaScript Knex.js for PostgreSQL Extension Library.
+## JavaScript Knex.js for PostgreSQL Extension Library
 
 Implements the functionality of PostgreSQL Database transactions and multi transactions in Knex.
 
